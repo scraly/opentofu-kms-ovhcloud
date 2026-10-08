@@ -188,7 +188,7 @@ terraform {
 }
 ```
 
-## Known issue
+## Known issues
 
 ### Cryptographic usage is not allowed: WrapKey
 
